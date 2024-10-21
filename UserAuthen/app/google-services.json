@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18431738373",
+    "project_id": "userauthen-fd314",
+    "storage_bucket": "userauthen-fd314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18431738373:android:319523d9cc57ca6bead26c",
+        "android_client_info": {
+          "package_name": "com.example.userauthen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFUWwgNS3KxPh9AgYuIClWMpZsKVtUMc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
